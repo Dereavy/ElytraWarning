@@ -1,0 +1,29 @@
+
+# Audible warning (true/false)
+warningSound: true
+  # Warning sound
+sound: "BLOCK_COMPOSTER_FILL"
+  # volume (Integer)
+volume: 10
+  # pitch (Double)
+pitch: 0.01
+
+# Percentage of durability before warning happens (Integer)
+durability: 10
+
+# On screen warning (true/false)
+warningGui: false
+
+# On screen BIG warning (true/false)
+# As suggested here: https://www.spigotmc.org/threads/natural-elytra-warning-system.375670/#post-3421126
+warningTitle: true
+warningText: "Elytra is breaking"
+fadeInTime: 1
+showTime: 20
+fadeOutTime: 4
+titleColor: "WHITE"
+subTitleColor1: "RED"
+subTitleColor2: "DARK_RED"
+
+# Affect elytra speed (true/false)
+affectSpeed: true

@@ -1,0 +1,4 @@
+name: ElytraWarning
+version: 1.0-SNAPSHOT
+main: fr.alexking.elytrawarning.ElytraWarning
+description: Warns the player when the elytra is close to breaking

@@ -1,0 +1,6 @@
+fr\alexking\elytrawarning\models\Reflection.class
+fr\alexking\elytrawarning\events\PlayerMove.class
+fr\alexking\elytrawarning\models\Title.class
+fr\alexking\elytrawarning\ElytraWarning.class
+fr\alexking\elytrawarning\commands\Info.class
+fr\alexking\elytrawarning\events\PlayerItemDamage.class
